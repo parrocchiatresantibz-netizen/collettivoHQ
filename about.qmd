@@ -133,7 +133,9 @@ Speaker
 
 Attore
 :::
+:::::::
 
+::::::: columns
 ::: {.column width="25%"}
 ![](files/logo.png)
 
