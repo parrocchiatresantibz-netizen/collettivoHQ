@@ -10,7 +10,7 @@ about:
 ---
 
 ::::::: columns
-::: {.column width="25%"}
+::: {.column width="50%"}
 ![](files/davide.png)
 
 ### Davide Goldner
@@ -18,15 +18,17 @@ about:
 Creative Director & Filmmaker
 :::
 
-::: {.column width="25%"}
+::: {.column width="50%"}
 ![](files/anna.png)
 
 ### Anna Goldner
 
 Attrice & Musicista
 :::
+:::::::
 
-::: {.column width="25%"}
+::::::: columns
+::: {.column width="50%"}
 ![](files/logo.png)
 
 ### Linda Anesi
@@ -34,7 +36,7 @@ Attrice & Musicista
 Attrice & Speaker
 :::
 
-::: {.column width="25%"}
+::: {.column width="50%"}
 ![](files/logo.png)
 
 ### Greta E. Bondesan
@@ -44,7 +46,7 @@ Attrice & Speaker
 :::::::
 
 ::::::: columns
-::: {.column width="25%"}
+::: {.column width="50%"}
 ![](files/logo.png)
 
 ### Tommaso Bonecher
@@ -52,15 +54,17 @@ Attrice & Speaker
 Attore
 :::
 
-::: {.column width="25%"}
+::: {.column width="50%"}
 ![](files/mattia.png)
 
 ### Mattia E. Busolin
 
 Attore
 :::
+::::::: 
 
-::: {.column width="25%"}
+::::::: columns
+::: {.column width="50%"}
 ![](files/aaron.png)
 
 ### Aaron Dandaro
@@ -68,7 +72,7 @@ Attore
 Attore & Cameraman
 :::
 
-::: {.column width="25%"}
+::: {.column width="50%"}
 ![](files/logo.png)
 
 ### Pietro De Nicolò
@@ -78,7 +82,7 @@ Attore & Rapper
 :::::::
 
 ::::::: columns
-::: {.column width="25%"}
+::: {.column width="50%"}
 ![](files/logo.png)
 
 ### Lisa Lucietto
@@ -86,15 +90,17 @@ Attore & Rapper
 Attrice & Voiceover
 :::
 
-::: {.column width="25%"}
+::: {.column width="50%"}
 ![](files/logo.png)
 
 ### Alessandro Menegolo
 
 Attore & Speaker
 :::
+::::::: 
 
-::: {.column width="25%"}
+::::::: columns
+::: {.column width="50%"}
 ![](files/ema.png)
 
 ### Emanuele Palmisano
@@ -102,7 +108,7 @@ Attore & Speaker
 Attore & Aiutoregista
 :::
 
-::: {.column width="25%"}
+::: {.column width="50%"}
 ![](files/logo.png)
 
 ### Giulia Petitti
