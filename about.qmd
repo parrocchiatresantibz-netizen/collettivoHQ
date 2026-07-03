@@ -9,7 +9,7 @@ about:
       href: https://www.youtube.com/@ParrocchiaTreSantiBZ
 ---
 
-::::::: columns
+::::: columns
 ::: {.column width="50%"}
 ![](files/davide.png)
 
@@ -25,9 +25,9 @@ Creative Director & Filmmaker
 
 Attrice & Musicista
 :::
-:::::::
+:::::
 
-::::::: columns
+::::: columns
 ::: {.column width="50%"}
 ![](files/logo.png)
 
@@ -43,9 +43,9 @@ Attrice & Speaker
 
 Attrice & Speaker
 :::
-:::::::
+:::::
 
-::::::: columns
+::::: columns
 ::: {.column width="50%"}
 ![](files/logo.png)
 
@@ -61,9 +61,9 @@ Attore
 
 Attore
 :::
-::::::: 
+:::::
 
-::::::: columns
+::::: columns
 ::: {.column width="50%"}
 ![](files/aaron.png)
 
@@ -79,9 +79,9 @@ Attore & Cameraman
 
 Attore & Rapper
 :::
-:::::::
+:::::
 
-::::::: columns
+::::: columns
 ::: {.column width="50%"}
 ![](files/logo.png)
 
@@ -97,9 +97,9 @@ Attrice & Speaker
 
 Attore & Speaker
 :::
-::::::: 
+:::::
 
-::::::: columns
+::::: columns
 ::: {.column width="50%"}
 ![](files/ema.png)
 
@@ -115,10 +115,10 @@ Attore & Aiutoregista
 
 Attrice & Artista
 :::
-:::::::
+:::::
 
-::::::: columns
-::: {.column width="25%"}
+::::: columns
+::: {.column width="50%"}
 ![](files/logo.png)
 
 ### Riccardo Rovara
@@ -126,17 +126,17 @@ Attrice & Artista
 Speaker
 :::
 
-::: {.column width="25%"}
+::: {.column width="50%"}
 ![](files/logo.png)
 
 ### Luca Sette
 
 Attore
 :::
-:::::::
+:::::
 
-::::::: columns
-::: {.column width="25%"}
+::::: columns
+::: {.column width="50%"}
 ![](files/logo.png)
 
 ### Julia Stevanon
@@ -144,11 +144,11 @@ Attore
 Attrice
 :::
 
-::: {.column width="25%"}
+::: {.column width="50%"}
 ![](files/logo.png)
 
 ### Gianluca Viggiani
 
 Attore
 :::
-:::::::
+:::::
