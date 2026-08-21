@@ -147,7 +147,7 @@ Attrice
 ::: {.column width="50%"}
 ![](files/logo.png)
 
-### Gianluca Viggiani
+### Gianluca Viggiano
 
 Attore
 :::
