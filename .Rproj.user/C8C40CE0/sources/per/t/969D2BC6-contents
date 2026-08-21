@@ -1,0 +1,146 @@
+---
+title: "Chi siamo?"
+about:
+  template: jolla
+  image: logo.png
+  links:
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/@ParrocchiaTreSantiBZ
+---
+
+::::::: columns
+::: {.column width="25%"}
+![](files/davide.png)
+
+### Davide Goldner
+
+Creative Director & Filmmaker
+:::
+
+::: {.column width="25%"}
+![](files/anna.png)
+
+### Anna Goldner
+
+Attrice & Musicista
+:::
+
+::: {.column width="25%"}
+![](files/logo.png)
+
+### Linda Anesi
+
+Attrice & Speaker
+:::
+
+::: {.column width="25%"}
+![](files/logo.png)
+
+### Greta E. Bondesan
+
+Attrice & Speaker
+:::
+:::::::
+
+::::::: columns
+::: {.column width="25%"}
+![](files/logo.png)
+
+### Tommaso Bonecher
+
+Attore
+:::
+
+::: {.column width="25%"}
+![](files/mattia.png)
+
+### Mattia E. Busolin
+
+Attore
+:::
+
+::: {.column width="25%"}
+![](files/aaron.png)
+
+### Aaron Dandaro
+
+Attore & Cameraman
+:::
+
+::: {.column width="25%"}
+![](files/logo.png)
+
+### Pietro De Nicolò
+
+Attore & Rapper
+:::
+:::::::
+
+::::::: columns
+::: {.column width="25%"}
+![](files/logo.png)
+
+### Lisa Lucietto
+
+Attrice & Voiceover
+:::
+
+::: {.column width="25%"}
+![](files/logo.png)
+
+### Alessandro Menegolo
+
+Attore & Speaker
+:::
+
+::: {.column width="25%"}
+![](files/ema.png)
+
+### Emanuele Palmisano
+
+Attore & Aiutoregista
+:::
+
+::: {.column width="25%"}
+![](files/logo.png)
+
+### Giulia Petitti
+
+Attrice & Artista
+:::
+:::::::
+
+::::::: columns
+::: {.column width="25%"}
+![](files/logo.png)
+
+### Riccardo Rovara
+
+Speaker
+:::
+
+::: {.column width="25%"}
+![](files/logo.png)
+
+### Luca Sette
+
+Attore
+:::
+
+::: {.column width="25%"}
+![](files/logo.png)
+
+### Julia Stevanon
+
+Attrice
+:::
+
+::: {.column width="25%"}
+![](files/logo.png)
+
+### Gianluca Viggiani
+
+Attore
+:::
+:::::::

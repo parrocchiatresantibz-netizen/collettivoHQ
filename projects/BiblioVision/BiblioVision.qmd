@@ -1,0 +1,16 @@
+---
+title: "BiblioVision"
+image: bibliovision-cover.png
+---
+
+**C'è una differenza significativa tra vedere e guardare**
+
+*Biblio Vision*, è un cortometraggio che celebre sia la forza generativa della lettura che il capostipite dell'investigatore che, con la sola forza del pensiero analitico, riesce a risolvere casi ritenuti impossibili: Auguste Dupin, personaggio creato da Edgar Allan Poe e che poi ispirò il personaggio di Sherlock Holmes. A voi, pubblico, spetta cogliere il nesso tra i due soggetti trattati nel cortometraggio.
+
+## Il corto
+
+{{< video https://www.youtube.com/embed/PX-YICTJOSE title='Il trattato di Bolzano' >}}
+
+## Contattaci
+
+`parrocchiatresantibz@gmail.com`
