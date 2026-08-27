@@ -1,0 +1,18 @@
+---
+title: "Biblio Vision"
+image: bibliovision.png
+---
+
+**C’è una differenza significativa tra vedere e guardare.**
+
+*Biblio Vision* è un cortometraggio che celebra la forza generativa della lettura e, allo stesso tempo, rende omaggio al capostipite della figura dell’investigatore moderno, capace di risolvere casi apparentemente impossibili attraverso la sola forza del pensiero analitico: Auguste Dupin, personaggio creato da Edgar Allan Poe.
+
+## Il corto
+
+{{< video https://youtu.be/ICWcDU-JSyI title='Biblio Vision' >}}
+
+## Contattaci
+
+Quali sono i libri che vi hanno fatto smettere di guardare per poter iniziare a vedere davvero? Condividetelo con noi.
+
+`parrocchiatresantibz@gmail.com`
