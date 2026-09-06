@@ -20,6 +20,8 @@ format:
       - brand
     css: styles.css
     toc: true
-
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="LguhDFv7dGsxXM408KUXzEqdTYLWdrcHfAIWKqWuyI8" />
 
 
